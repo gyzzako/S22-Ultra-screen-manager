@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Screen Manager</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="set_dynamic">Dynamique</string>
+    <string name="set_120hz">120Hz</string>
+    <string name="set_96hz">96Hz</string>
+    <string name="set_60hz">60Hz</string>
+</resources>

@@ -82,4 +82,8 @@ lint/intermediates/
 lint/generated/
 lint/outputs/
 lint/tmp/
+<<<<<<< HEAD
 # lint/reports/
+=======
+# lint/reports/
+>>>>>>> 5f7611b (Change screen refresh rate implementation)
