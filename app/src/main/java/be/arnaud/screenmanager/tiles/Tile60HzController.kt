@@ -34,6 +34,6 @@ class Tile60HzController : TileService(), ITileController {
 
     override fun isCurrentRefreshRate(controller: TileService) :Boolean{
         val refreshRate = Settings.System.getString(contentResolver, MIN_REFRESH_RATE)
-        return refreshRate.equals(RefreshRate.Sixty.refreshRateValue)
+        return refreshRate.equals(RefreshRate.Sixty.minRefreshRateValue)
     }
 }
